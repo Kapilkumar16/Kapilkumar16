@@ -1,90 +1,136 @@
 # 👋 Hi, I'm Kapil Kumar
 
-A passionate **Data Analyst** and **Full Stack Developer** with a strong foundation in data science, backend systems, and real-world project building. I love solving business problems through both clean code and data-driven insights.
+🚀 Associate Software Engineer passionate about building scalable backend systems, AI-powered applications, and data-driven solutions.
+
+I specialize in **Backend Development**, **Agentic AI Systems**, **LLM Integrations**, and **Data Analytics**, with hands-on experience in designing production-grade APIs, automation pipelines, and intelligent workflows.
 
 ---
 
-## 🔧 Technical Skills
+# 💻 Tech Stack
 
-**Languages:** Python, Java, JavaScript, SQL  
-**Data Tools:** Power BI, Excel, MySQL, Pandas, NumPy, Seaborn, Matplotlib  
-**Web Development:** Django, Django REST Framework, ReactJS, HTML, CSS, SQLite  
-**Tools & IDEs:** VS Code, Jupyter Notebook, IntelliJ IDEA, Git, GitHub
+## 🚀 Languages
+- Python
+- Java
+- SQL
 
----
+## ⚙️ Backend & Frameworks
+- Django
+- FastAPI
+- Flask
+- Django REST Framework
+- Microservices Architecture
 
-## 🎯 Experience
+## 🤖 AI & Automation
+- LangChain
+- RAG Architecture
+- LLM Integration
+- Agentic AI
+- Prompt Engineering
+- Make.com
+- n8n
+- UiPath
 
-### 💻 Backend Developer Intern – *Inkyst* (Jan 2025 – May 2025)
-- Developed REST APIs using Django REST Framework
-- Built secure authentication and role-based access for scalable product systems
-- Optimized SQLite schemas for analytics and reporting
+## 📊 Data & Analytics
+- Pandas
+- NumPy
+- Power BI
+- Excel
 
-### 📊 Data Analyst Intern – *ENEXPERTS CONSULTING* (Sep 2024 – Dec 2024)
-- Cleaned and analyzed financial and operational data using Python and SQL
-- Built Power BI dashboards for client-facing business insights
-- Conducted exploratory data analysis to identify performance trends
+## 🗄️ Databases & Infrastructure
+- PostgreSQL
+- MongoDB
+- Redis
+- Docker
+- CI/CD
 
----
-
-## 🚀 Featured Projects
-
-### 📈 [Customer Feedback Sentiment Analysis](https://github.com/Kapilkumar16/Customer-Feedback-bike-analysis)
-> NLP sentiment analysis of customer reviews using VADER, Pandas, Power BI
-
-### 🚕 [Uber Trip Analysis Dashboard](https://github.com/Kapilkumar16/Uber)
-> Power BI dashboard with filters, DAX measures, and trip insights
-
-### 🌬️ [Air Purifier Performance Insights](https://github.com/Kapilkumar16/Air-Purifier-Analysis)
-> Analyzing sensor data for air quality with Python + Power BI
-
-### 🌐 [DevSearch](https://github.com/Kapilkumar16/Dev-Search)
-> Django-based platform where developers can showcase and search profiles
-
-### 💬 [VibeRooms](https://github.com/Kapilkumar16/VibeRoom)
-> Real-time chat application with WebSockets and Django Channels
-
-### 🛒 [Connect Mart](https://github.com/Kapilkumar16/ConnectMart)
-> Full-stack eCommerce platform built using Django and REST APIs
-
----
-
-## 🎓 Education
-**B.Tech, College of Engineering Roorkee**  
-*(2021 – 2025)*
+## 🔧 Tools & Technologies
+- Git & GitHub
+- REST APIs
+- WebSockets
+- System Design
 
 ---
 
-## 📜 Certifications
-- Data Analytics – *Deloitte*
-- Software Engineering – *Accenture*
-- Data Visualization – *TATA*
+# 💼 Experience
+
+## 🏢 Associate Software Engineer — *Aviara Labs*  
+📍 Noida | 🗓️ Dec 2025 – Present
+
+- Architected and developed a scalable **microservices-based healthcare chat platform**
+- Built intelligent workflows using **Django, FastAPI, and LLM-powered agentic systems**
+- Implemented appointment scheduling, rescheduling, and automated patient coordination
+- Designed automation pipelines using **Make.com** and **n8n**
+- Integrated external APIs and backend systems to streamline CRM and operational workflows
 
 ---
 
-## 📫 Contact Me
+## ✈️ Apprentice — *Air India Limited*  
+📍 Gurugram | 🗓️ Oct 2025 – Dec 2025
 
-📍 Gurugram, Haryana  
-📧 [kapil10kumar2004@gmail.com](mailto:kapil10kumar2004@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kapil-kumar-3b8748249/)  
-💻 [GitHub](https://github.com/kapilkumar16)
+- Analyzed business and financial datasets using **Python, SQL, and Excel**
+- Built interactive **Power BI dashboards** for business intelligence reporting
+- Generated actionable insights to support strategic decision-making
 
 ---
 
-> 💡 *Turning data into insights and code into products.* Let's build something impactful!
+# 🚀 Featured Projects
 
+## 📄 [Contract Intelligence API](https://github.com/Kapilkumar16/contract-intelligence-api)
+**FastAPI • RAG • LLMs • Docker • Redis • SSE**
 
-<!--                                            
-**Kapilkumar16/Kapilkumar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- AI-powered contract analysis REST API
+- Intelligent PDF ingestion and automated field extraction
+- RAG-based question answering with real-time SSE streaming
+- Multi-provider AI support with webhook notifications
+- Risk audit engine with regex fallback mechanisms
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ [Process Monitor Agent](https://github.com/Kapilkumar16/Process-monitoring-agent)
+**Python • Django • REST API • WebSockets • Redis**
+
+- Real-time cross-platform system monitoring solution
+- Process tracking using `psutil`
+- Secure API key authentication for host communication
+- WebSocket-powered live monitoring dashboard
+
+---
+
+# 🎓 Education
+
+## 🎓 College of Engineering Roorkee  
+**Bachelor of Technology in Computer Science and Engineering**  
+📅 Sep 2021 – June 2025
+
+---
+
+# 📜 Certifications
+
+- Django Full Stack Development — Udemy
+- Data Visualization — TATA
+
+---
+
+# 📫 Connect With Me
+
+📍 Gurugram, Haryana, India  
+📧 **kapil10kumar2004@gmail.com**  
+📱 **+91-9569802774**
+
+## 🌐 Profiles
+- 💼 LinkedIn: [kapil-kumar-3b8748249](https://www.linkedin.com/in/kapil-kumar-3b8748249/)
+- 💻 GitHub: [Kapilkumar16](https://github.com/kapilkumar16)
+
+---
+
+# ⚡ What I'm Currently Exploring
+
+- Agentic AI Systems
+- Advanced RAG Architectures
+- LLM-powered Automation
+- Scalable Backend Infrastructure
+- AI Workflow Orchestration
+
+---
+
+> 💡 *Building intelligent systems that combine AI, automation, and scalable backend engineering.*
